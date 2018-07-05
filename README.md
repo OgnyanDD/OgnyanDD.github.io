@@ -1,2 +1,6 @@
-# OgnyanDD.github.io
-ðŸ’¬ Design SoftUni Blog...
+# Exercises: HTML5 and CSS - BLOG DESIGN
+
+Problem for exercises and homework for the “Software Technologies” course @ SoftUni.
+This exercise uses bootstrap extensively, so every HTML code will be instantly stylized and will look good off the shelf. This is not the case when manualy write plain HTML without ready styles.
+
+Powered by ```HTML
