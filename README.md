@@ -1,4 +1,4 @@
-# Exercise: HTML5 and CSS - BLOG DESIGN
+# T6. Exercise: HTML5 and CSS - BLOG DESIGN
 
-Problem for exercises and homework for the ìSoftware Technologiesî course @ SoftUni.
+Problem for exercises and homework for the [‚ÄúSoftware Technologies‚Äù](https://github.com/OgnyanDD/Software-Technologies) course @ SoftUni.
 This exercise uses bootstrap extensively, so every HTML code will be instantly stylized and will look good off the shelf. This is not the case when manualy write plain HTML without ready styles.
